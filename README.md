@@ -33,13 +33,13 @@ A **C++** and **Raylib**-based tool to visualize stack and queue operations, inc
 - **Raylib Library**: Download and set up Raylib from [raylib.com](https://www.raylib.com/). 🎯
 
 ### 🔄 Installation
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
    git clone https://github.com/BoltTaha/stack-queue-visualizer.git
    ```
    🔄 Cloning complete? Let’s proceed!
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: 
    ```bash
    cd stack-queue-visualizer
    ```
@@ -63,7 +63,9 @@ A **C++** and **Raylib**-based tool to visualize stack and queue operations, inc
 ---
 
 ## 📹 Demonstration
-(Add animated GIFs 📽️ or screenshots 📸 of your tool in action to showcase the features.)
+[Watch the Stack & Queue Visualizer in action](https://github.com/BoltTaha/stack-and-queue-visualizer-with-raylib/blob/main/stack%20%26%20queue/Stack%20and%20Queue%20Visualizer.mp4)
+
+
 
 ---
 
